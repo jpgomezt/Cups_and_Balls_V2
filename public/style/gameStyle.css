@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 30px;
+    background-color: #438C75;
+}
+
+h1 {
+    font-family: Fantasy;
+}
+
+.container2 { 
+    width:100%; 
+    height:300px; 
+    padding-top:20px; 
+} 
+
+#box1 { 
+    float:left; 
+    width:180px; 
+    height:270px; 
+    margin-left:220px; 
+} 
+
+#box2 { 
+    float:right; 
+    width:180px; 
+    height:270px; 
+    margin-right:220px; 
+} 
+
+.button {
+    font-size: 120%;
+}

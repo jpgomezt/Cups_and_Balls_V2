@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #438c75;
+}
+
+input {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.buttons {
+  font-size: 120%;
+}
+
+#error {
+    color: #c40000;
+}
